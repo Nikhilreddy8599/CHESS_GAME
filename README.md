@@ -8,12 +8,9 @@ The project was built from scratch to explore **Object-Oriented Programming, eve
 
 ## 📸 Demo
 
+### Chess Game Interface
 
-
-```text
-<img width="981" height="938" alt="Screenshot 2026-09-26 142953" src="https://github.com/user-attachments/assets/d2b2f2cd-3539-43ef-b97a-1b7676191552" />
-
-```
+![Chess Game Screenshot](images/chess-game.png)
 
 ---
 
