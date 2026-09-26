@@ -8,7 +8,7 @@ The project was built from scratch to explore **Object-Oriented Programming, eve
 
 ## 📸 Demo
 
-> Add a screenshot or GIF of the running game here.
+![Uploading image.png…]()
 
 ```text
 [ Chess Game Screenshot / GIF ]
