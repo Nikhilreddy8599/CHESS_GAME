@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Java Chess Game</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #1e1e1e;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      overflow: hidden;
+    }
+  </style>
+  <!-- Load CheerpJ runtime library -->
+  <script src="https://cjrtnc.leaningtech.com/3.0/cheerpOS.js"></script>
+</head>
+<body>
+  <script>
+    async function launchGame() {
+      // Initialize CheerpJ Java Runtime
+      await cheerpjInit();
+      // Create display canvas (Width, Height in pixels)
+      cheerpjCreateDisplay(800, 800);
+      // Run your executable JAR file (Replace Chess_game.jar with your exact file name if different)
+      await cheerpjRunJar("/app/Chess_game.jar");
+    }
+    launchGame();
+  </script>
+</body>
+</html>
