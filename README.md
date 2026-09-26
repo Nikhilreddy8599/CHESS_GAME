@@ -10,9 +10,7 @@ The project was built from scratch to explore **Object-Oriented Programming, eve
 
 ![Uploading image.png…]()
 
-```text
-[ Chess Game Screenshot / GIF ]
-```
+
 
 ---
 
