@@ -61,7 +61,7 @@ Being a chess enthusiast, this project helped me translate my understanding of t
 ## ▶️ How to Run
 
 1. Clone the repository:
-   git clone https://github.com/reddypnipun/JAVA_CHESS_GAME.git
+   git clone https://github.com/Nikhilreddy8599/CHESS_GAME.git
 
 2. Open in IDE (IntelliJ / Eclipse)
 
